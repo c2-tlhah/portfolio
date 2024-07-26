@@ -1,25 +1,13 @@
 # Personal Professional Card Astro
 
 "Hi there!, I'm Brian. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
-
 You can help me by following me, giving a Star to the template, and sharing it so others can see and use it.
-
 Have a great day!"
-
-
-![example page](pageexample.png)
-
-![performance web](performance.png)
-
 <hr/>
 
 <h3 align="center">
  ⭐ Leave a star if you like this project! ⭐️
 </h3>
-
-## Deploy
-
-[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://personal-card-astro.netlify.app/)
 
 ## 🚀 Project Structure
 
@@ -99,8 +87,9 @@ Make sure you have the following installed on your machine:
 1. **Clone the Template Repository**
 
     ```bash
-    https://github.com/alcarazbrian/professional-card-astro.git
-    cd professional-card-astro
+    https://github.com/c2-tlhah/portfolio.git
+
+    cd portfolio
     ```
 
 2. **Install Dependencies**
@@ -185,4 +174,4 @@ Feel free to check [Astro documentation](https://docs.astro.build) or jump into 
 
 ## Contact
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-ramzan)
